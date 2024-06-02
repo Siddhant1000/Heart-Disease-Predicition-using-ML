@@ -29,7 +29,7 @@ This is where we get different information about each of the features in our dat
 
 Create data dictionary
 
-id (Unique id for each patient)< br / >
+id (Unique id for each patient)<br>
 #age (Age of the patient in years)< br / >
 #origin (place of study)< br / >
 sex (Male/Female)< br / >
