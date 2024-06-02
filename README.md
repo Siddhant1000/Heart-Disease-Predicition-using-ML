@@ -1,6 +1,6 @@
 # Heart-Disease-Predicition-using-ML
 
-Prediciting heart disease using machine learning¶
+Prediciting heart disease using machine learning
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of prediciting whether or not someone has heart disease based on their medical attributes.
 
 We are going to take the following approach:
@@ -29,9 +29,9 @@ This is where we get different information about each of the features in our dat
 
 Create data dictionary
 
-id (Unique id for each patient)
-age (Age of the patient in years)
-origin (place of study)
+#id (Unique id for each patient)
+#age (Age of the patient in years)
+#origin (place of study)
 sex (Male/Female)
 cp chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic])
 trestbps resting blood pressure (resting blood pressure (in mm Hg on admission to the hospital))
